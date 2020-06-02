@@ -1,0 +1,23 @@
+spring:
+  profiles:
+    active: dev
+---
+spring:
+  profiles: dev
+
+config:
+  version: dev_version
+
+---
+spring:
+  profiles: test
+
+config:
+  version: test_version
+
+---
+spring:
+  profiles: pro
+
+config:
+  version: pro_version
