@@ -7,6 +7,9 @@ spring:
 
 config:
   version: dev_version_1
+  
+user:
+  username: zhangsan
 
 ---
 spring:
