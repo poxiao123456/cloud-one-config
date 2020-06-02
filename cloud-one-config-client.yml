@@ -6,10 +6,10 @@ spring:
   profiles: dev
 
 config:
-  version: dev_version_6
+  version: dev_version_7
   
 user:
-  username: zhangsan6
+  username: zhangsan7
 
 ---
 spring:
