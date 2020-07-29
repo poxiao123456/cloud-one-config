@@ -1,7 +1,7 @@
 user:
-  username: zhangsan2
+  username: zhangsan3
   password: 123
 env:
   profile: dev
 config:
-  version: 1.0.2
+  version: 1.0.3
