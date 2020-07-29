@@ -3,3 +3,5 @@ user:
   password: 123
 env:
   profile: dev
+config:
+  version: 1.0.0
