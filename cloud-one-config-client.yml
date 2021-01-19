@@ -1,26 +1,2 @@
-spring:
-  profiles:
-    active: dev
----
-spring:
-  profiles: dev
-
 config:
-  version: dev_version_7
-  
-user:
-  username: zhangsan7
-
----
-spring:
-  profiles: test
-
-config:
-  version: test_version
-
----
-spring:
-  profiles: pro
-
-config:
-  version: pro_version
+  version: first_config_version
